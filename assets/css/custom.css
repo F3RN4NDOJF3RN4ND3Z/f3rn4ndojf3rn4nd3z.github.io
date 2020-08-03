@@ -6,3 +6,16 @@
     flex-flow: row-reverse;
 
 }
+.img-card{
+    object-fit: cover;
+    height: 360px;
+}
+
+.progress{
+    height: 2rem;
+    margin: 5px;
+}
+.tech_icon{
+    width: 60px;
+    height: 60px;
+}
